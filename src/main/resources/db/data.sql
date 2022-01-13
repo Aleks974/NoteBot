@@ -1,0 +1,1 @@
+INSERT INTO categories (id, cat_name) VALUES (1, 'First category');
